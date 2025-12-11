@@ -1,0 +1,9 @@
+#Wed Dec 10 19:01:15 NOVT 2025
+shadowDistance=128.0
+LIGHT_SHAFT=false
+SHADOW_FILTER=false
+shadowMapResolution=512
+TAA=false
+SHADOW=false
+SHADOW_COLOR=false
+AO=false

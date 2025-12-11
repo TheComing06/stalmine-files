@@ -1,0 +1,18 @@
+{
+  "weight": 1,
+  "armor_ignore": {
+    "addend": 1
+  },
+  "damage": {
+    "multiplier": 2
+  },
+  "head_shot":{
+		"addend": 2
+	},
+  "explosion": {
+		"explode": false,
+    "knockback": false,
+    "destroy_block": false
+	},
+  "extended_mag_level": 1
+}

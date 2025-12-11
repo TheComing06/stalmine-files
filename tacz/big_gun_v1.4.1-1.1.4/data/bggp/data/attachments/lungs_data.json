@@ -1,0 +1,17 @@
+{
+  "armor_ignore": {
+    "addend": 0.55
+  },
+  "damage": {
+    "multiplier": 1.5
+  },
+  "ammo_speed": {
+		"multiplier": 6
+	},
+  "effective_range": {
+		"addend": 50
+  },
+  "head_shot":{
+		"addend": 0.8
+	}
+}

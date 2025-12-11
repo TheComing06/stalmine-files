@@ -1,0 +1,16 @@
+{
+  "weight": 1,
+  "armor_ignore": {
+    "addend": 1
+  },
+  "ammo_speed": {
+		"multiplier": 0.6
+	},
+  "explosion": {
+		"explode": true,
+    "knockback": true,
+    "destroy_block": false
+	},
+  "ignite": true,
+  "extended_mag_level": 2
+}
